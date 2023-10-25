@@ -7,5 +7,13 @@ return (
     </div>
 )
 }
+<html>
+<head>
+    <title>mike huele a ovo</title>
+</head>
+<body>
+    <p style="color: red;">Este es un mensaje de color rojo.</p>
+</body>
+</html>
 
 export default page
